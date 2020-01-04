@@ -1,0 +1,11 @@
+[package]
+name = "fact"
+version = "0.1.0"
+authors = ["Mehak Fatima <mehaksq@gmail.com>"]
+edition = "2018"
+description = "For factorial"
+license = "MIT"
+respository = "https://github.com/mehakfatimaq/factorial_crate"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
